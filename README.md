@@ -4,3 +4,5 @@ Descriptive content is any sentence from a company’s website that indicates on
 •	Products/Services    
 •	Market Segment, Market Profile or Market Location     
 •	Value Proposition or Company Purpose     
+
+For proprietary reasons, I cannot disclose the datasets to public.
